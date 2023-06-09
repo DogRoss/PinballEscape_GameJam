@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516b211c800565948ade82fa1559c32b, type: 3}
+  m_Name: Bounce1
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 4353ac16101a0974dbae55aae15568f6, type: 3}
+  clipName: Bounce1
+  volume: 1
+  pitch: 1
+  loop: 0
+  isBackgroundMusic: 0
+  group: {fileID: -4249150148300671022, guid: 9927e417edb2c854ab9fd70aaa5f3076, type: 2}
+  source: {fileID: 0}
